@@ -1,0 +1,6 @@
+framework module LJMWXSDK {
+  umbrella header "LJMWXSDK.h"
+
+  export *
+  module * { export * }
+}

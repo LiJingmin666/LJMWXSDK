@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/LiJingmin666/LJMWXSDKTest'
+  s.homepage         = 'https://github.com/LiJingmin666/LJMWXSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LiJingmin666' => 'lijingmin@agapday.com' }
-  s.source           = { :git => 'https://github.com/LiJingmin666/LJMWXSDKTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/LiJingmin666/LJMWXSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -1,0 +1,22 @@
+{
+  "name": "LJMWXSDKTest",
+  "version": "0.1.0",
+  "summary": "A short description of LJMWXSDKTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LiJingmin666/LJMWXSDKTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiJingmin666": "lijingmin@agapday.com"
+  },
+  "source": {
+    "git": "https://github.com/LiJingmin666/LJMWXSDKTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJMWXSDKTest/Classes/**/*"
+}
